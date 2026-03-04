@@ -1,0 +1,22 @@
+.tip {
+    color: orange;
+}
+
+.box {
+    background-color: yellow;
+    color: black;
+    padding: 10px;
+    border-left: 10px solid rgb(255, 166, 0);
+}
+
+a:hover{
+    color: chartreuse;
+}
+
+a:active {
+    color: aquamarine;
+}
+
+#name {
+text-decoration: none;
+}

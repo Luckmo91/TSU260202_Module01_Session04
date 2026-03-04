@@ -1,0 +1,31 @@
+.box {
+    background-color: antiquewhite;
+    width: 500px;
+    height: 200px;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.box h1 {
+    color: blue;    
+}
+.box p {
+    font-size: 20px;  
+}
+
+.box button{
+    padding: 5px;
+    border: 1px solid ;
+}
+
+.box button:hover{
+    background-color: green;
+    color: white;
+    border-color: yellowgreen;
+}
+
+.box button:active{
+    background-color: aliceblue;
+    color: pink;
+}
